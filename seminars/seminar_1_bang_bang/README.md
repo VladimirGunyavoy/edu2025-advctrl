@@ -61,7 +61,6 @@ In this model:
 
 ## Local Files and Descriptions
 
-*   `ACM-1.pptx`: Presentation file containing the problem statements, theoretical background, and explanations for the bang-bang control problems covered in this seminar.
 *   `img/`: Contains visualizations related to the seminar:
     *   `phase_portrait.png`: A plot showing the phase portrait for the system under bang-bang control.
     *   `bang_bang_simulations.png`: Shows multiple simulation trajectories for different initial conditions or parameters.
