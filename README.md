@@ -7,7 +7,6 @@ This repository contains materials for the Advanced Control Methods course.
 *   `/seminars`: Contains materials for each seminar, including Jupyter notebooks (`.ipynb`), theoretical notes (`.md` files where applicable), source code (`src/`), and images (`img/`). Each seminar directory has its own `README.md` detailing its content.
 *   `/lectures`: Intended for lecture slides or notes.
 
-
 ## Lectures
 Lecture | Materials |
 | ----- | ----- |
@@ -36,6 +35,13 @@ Throughout the seminars and lectures, the following general notation is used whe
 *   $\mathbf{s}$: State vector of the system.
 *   $a$: Control input signal.
 *   $L$: Lyapunov function candidate.
+
+## Welcome Note
+
+![Seminar 3 Region 1 Simulation](seminars/seminar_3_lyapunov_1_pendulum_down/img/region_1_simulation.png)
+<!-- region_1_simulation -->
+Throughout this course, your focus should be stable - just like Region 1 above!
+<!-- endregion_1_simulation -->
 
 ## Recommended References
 
