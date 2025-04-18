@@ -72,8 +72,6 @@ We will need a switch (possibly "soft") when the pendulum is close to the uprigh
 
 ### System Architecture
 
-![System Architecture](system-architecture.png)
-
 Abstract Plant ------> Plant Pendulum
     |
     | state
