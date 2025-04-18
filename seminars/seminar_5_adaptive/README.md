@@ -51,4 +51,4 @@ This seminar introduces the concept of adaptive control using a simple one-dimen
 
 ![Simulation Results](img/output.png)
 
-_(The `output.png` image likely displays the evolution of the disturbance estimate $\hat{w}$ over time for multiple adaptive controller simulations, showing convergence towards the true unknown wind value $w$.)_ 
+_(The `output.png` image displays the evolution of the disturbance estimate $\hat{w}$ over time for multiple adaptive controller simulations, showing convergence towards the true unknown wind value $w$.)_ 
