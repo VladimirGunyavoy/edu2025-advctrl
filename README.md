@@ -5,14 +5,14 @@ This repository contains materials for the Advanced Control Methods course.
 ## Repository Structure
 
 *   `/seminars`: Contains materials for each seminar, including Jupyter notebooks (`.ipynb`), theoretical notes (`.md` files where applicable), source code (`src/`), and images (`img/`). Each seminar directory has its own `README.md` detailing its content.
-*   `/lectures`: Intended for lecture slides or notes.
+*   `/lectures`: Contains lecture materials, including original PDF notes, automatically converted Markdown (`.md`) versions, and related code examples (`.ipynb`). Lectures are organized into numbered subdirectories (`lecture_1_...`, `lecture_2_...`, etc.).
 
 ## Lectures
 Lecture | Materials |
 | ----- | ----- |
-| Lecture 1. |  |
-| Lecture 2. |  |
-| Lecture 3. |  |
+| Lecture 1: Dynamics Basics | [Details](lectures/lecture_1_dynamics_basics/README.md), [Notes (PDF)](lectures/lecture_1_dynamics_basics/dynamical_systems_basics.pdf), [Notes (MD)](lectures/lecture_1_dynamics_basics/dynamical_systems_basics.md) |
+| Lecture 2: Lyapunov Control | [Details](lectures/lecture_2_lyapunov_control/README.md), [Notes (PDF)](lectures/lecture_2_lyapunov_control/lyapunov_control.pdf), [Notes (MD)](lectures/lecture_2_lyapunov_control/lyapunov_control.md), [Implementation (ipynb)](lectures/lecture_2_lyapunov_control/pendulum_control.ipynb) |
+| Lecture 3: Adaptive Control | [Details](lectures/lecture_3_adaptive_control/README.md), [Notes (PDF)](lectures/lecture_3_adaptive_control/adaptive_control_basics.pdf), [Notes (MD)](lectures/lecture_3_adaptive_control/adaptive_control_basics.md) |
 | Lecture 4. |  |
 | Lecture 5. |  |
 | Lecture 6. |  |
